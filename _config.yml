@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 1
+  lightness: 0.207558
+  rhythmicContrast: 0.538651
+  saturation: 0.129934
+cta: {}
+layout_spectrum: 0.628289
+name: 'OutlandArtsMedia '
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.091989
